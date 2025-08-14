@@ -1,0 +1,31 @@
+.h1 {
+    height: 20px;
+    width: 11000000000px;
+}
+.h2 {
+    font-size: 2em;
+}
+.p {
+    font-size: 3rem;
+}
+.p1 {
+    width: 50%;
+}
+.div {
+    width: 6cm;
+    height: 6cm;
+    background-color: black;
+    color: #746ABD;
+}
+.div1 {
+    width: 6cm;
+    height: 6cm;
+    background-color: aquamarine;
+    color: rgb(56, 39, 9);
+}
+.div2 {
+    width: 6cm;
+    height: 6cm;
+    background-color: blue;
+    color: rgba(9, 89, 47, 0.8);
+}
