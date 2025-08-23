@@ -1,0 +1,36 @@
+.button1:hover {
+   background-color: #dc143c;
+}
+.input1:focus {
+   background-color: rgb(151, 19, 177);
+}
+.item:first-child {
+   font-weight: bolder;
+}
+.item:last-child {
+   color: aquamarine;
+}
+.a1:hover {
+   background-color: chocolate;
+}
+.div2:nth-child(even) {
+   color: darkred;
+}
+.div3:first-child {
+   color:rgb(255, 0, 0)
+}
+.div3:last-child {
+   color: hotpink;
+}
+.text1:first-child {
+   color: purple;
+}
+.text1:hover {
+   color:rgb(132, 172, 12)
+}
+.text2:last-child {
+   color: rgb(37, 57, 174);
+}
+.text2:focus {
+   background-color:deeppink;
+}
